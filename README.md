@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats-fawn-mu.vercel.app/api/top-langs/?username=ai_pree&exclude_repo=TwistedServer-Client,WebScraper,Cipher,puzzles,Learning)
+![Top Langs](https://github-readme-stats-fawn-mu.vercel.app/api/top-langs/?username=Ai_pree&exclude_repo=TwistedServer-Client,WebScraper,Cipher,puzzles,Learning)
 
 
 <!--
