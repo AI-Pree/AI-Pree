@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats-fawn-mu.vercel.app/api/top-langs/?username=ai-pree&exclude_repo=TwistedServer-Client,WebScraper,Cipher,puzzles,Learning)
+![Top Langs](https://github-readme-stats-fawn-mu.vercel.app/api/top-langs/?username=ai-pree&exclude_repo=TwistedServer-Client,AlgoVis,WebScraper,Cipher,puzzles,Learning)
 <!--
 **AI-Pree/AI-Pree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
