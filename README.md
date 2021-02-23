@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![barcode](https://resume-data-matrix-invp9g6gg-ai-pree.vercel.app/api?size=10&data=https://ai-pree.github.io/Portfolio/&fill=pink&bg=white)
+![barcode](https://resume-data-matrix-invp9g6gg-ai-pree.vercel.app/api?size=10&data=https://ai-pree.github.io/Portfolio/&fill=blue&bg=white)
