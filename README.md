@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![barcode](https://resume-data-matrix-invp9g6gg-ai-pree.vercel.app/api?size=4&data=https://ai-pree.github.io/Portfolio/&fill=#55a630ff&bg=white)
+![barcode](https://resume-data-matrix-invp9g6gg-ai-pree.vercel.app/api?size=4&data=https://ai-pree.github.io/Portfolio/&fill=green&bg=white)
